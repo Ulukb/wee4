@@ -72,7 +72,9 @@ from functools import reduce
 #app_to = list(map(app, lists))
 #print(app_to)
 
-def add7(x):
-    print(x+7)
-add7(4)
+#def add7(x):
+#    print(x+7)
+#add7(4)
 
+def add(x, y):
+    return x + y
